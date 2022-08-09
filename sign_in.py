@@ -19,5 +19,5 @@ driver.find_element_by_xpath("//button[@class='sc-hORach dSbYDX']").click()
 sleep(3)
 
 driver.find_element_by_xpath("//input[@class='sc-dymIpo cRKvaf']").send_keys(123456)
-sleep(4)
+sleep(5)
 driver.quit()
